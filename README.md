@@ -1,2 +1,2 @@
 # Mini-Project
-Power Bi dashboard
+Power Bi Dashboard created from a Employess Layoff Data set
